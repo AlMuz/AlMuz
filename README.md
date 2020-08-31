@@ -12,4 +12,4 @@ I’m currently working on Dyninno FinTech as Frontend Developer. Developing web
 
 How to reach me: almuz@inbox.lv
 
-Also visit my Linkidin, link is on the bio card.
+Also visit my LINKEDIN, link is on the bio card.
