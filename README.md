@@ -8,7 +8,9 @@ I'm doing - backend and frontend.
 
 Actively using Vue.js/NUXT.
 
-I’m currently working on Dyninno FinTech as Frontend Developer. Developing websites with NUXT and maintaining existing projects on WP.
+Currently working on [Dynapay](https://dynapay.co.uk/). Maintaining few projects on NUXT and also on Angular.
+
+~~I’m currently working on Dyninno FinTech as Frontend Developer. Developing websites with NUXT and maintaining existing projects on WP.~~
 
 How to reach me: almuz@inbox.lv
 
