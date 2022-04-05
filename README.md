@@ -1,6 +1,6 @@
-# Hi there 
+<h1 align="center">Hi there</h1>
 
-My name is Alexey Muzichenko, i'm from small country - Latvia. 
+<h3 align="center">My name is Alexey Muzichenko, I'm from small country - Latvia.</h3>
 
 I'm interested in Web development.
 
@@ -8,10 +8,10 @@ I'm doing - backend and frontend.
 
 Actively using Vue.js/NUXT.
 
-Currently working on [Dynapay](https://dynapay.co.uk/). Maintaining few projects on NUXT and also on Angular.
+Currently working on [MultiPass](https://multipass.co/) formerly DynaPay. Maintaining few projects on NUXT and also on Angular.
 
-~~I’m currently working on Dyninno FinTech as Frontend Developer. Developing websites with NUXT and maintaining existing projects on WP.~~
+How to reach me: [almuz@inbox.lv](mailto:almuz@inbox.lv)
 
-How to reach me: almuz@inbox.lv
+Also connect with [me](https://www.linkedin.com/in/almuz/).
 
-Also visit my LINKEDIN, link is on the bio card.
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AlMuz&show_icons=true&locale=en&layout=compact" alt="AlMuz" />
