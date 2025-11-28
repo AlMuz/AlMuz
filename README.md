@@ -1,17 +1,29 @@
-<h1 align="center">Hi there</h1>
+# Alexey Muzichenko (AlMuz)
 
-<h3 align="center">My name is Alexey Muzichenko, I'm from small country - Latvia.</h3>
+Frontend developer focused on building stable interfaces and shaping maintainable front-end architecture. 
+Primarily work with Vue, Nuxt, TypeScript, and interface systems for fintech and data-driven products.
 
-I'm interested in Web development.
+## Experience
 
-I'm doing - backend and frontend. 
+### Frontend Developer — Intrepid Fox  
+**Dec 2023 – Aug 2025 · Remote**  
+Built and maintained an AI-driven KYC data-collection system. Replaced the chat-based flow with structured intelligent forms to increase reliability and reduce friction.  
+Created the company landing page and established a maintainable front-end architecture.  
+Implemented landing pages sourced from structured Strapi content.  
+Worked on the admin dashboard: reporting modules, chart integrations, and KYC data views.
 
-Actively using Vue.js/NUXT.
+### Frontend Developer — MultiPass (previously DynaPay)  
+**Nov 2020 – Jul 2025 · Riga / Remote**  
+Handled the full rebranding transition from DynaPay to MultiPass.  
+Migrated the product from the old stack to Nuxt.  
+Maintained the banking application originally built on Angular and later moved it into the new stack.  
+Developed and maintained new features for the public website.  
 
-Currently working on [MultiPass](https://multipass.co/) formerly DynaPay. Maintaining few projects on NUXT and also on Angular.
+### Frontend Developer — DYNINNO Financial Technologies  
+**Feb 2020 – Nov 2020 · Riga**  
+Developed projects using Nuxt.  
+Created design systems for new and existing products.  
+Maintained several WordPress-based projects (themes).
 
-How to reach me: [almuz@inbox.lv](mailto:almuz@inbox.lv)
-
-Also connect with [me](https://www.linkedin.com/in/almuz/).
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AlMuz&show_icons=true&locale=en&layout=compact" alt="AlMuz" />
+## Skills  
+Vue.js · Nuxt.js · TypeScript · JavaScript · Tailwind CSS · D3.js · Cypress · E2E testing · SEO  
