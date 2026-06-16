@@ -5,6 +5,11 @@ Primarily work with Vue, Nuxt, TypeScript, and interface systems for fintech and
 
 ## Experience
 
+### Frontend Developer — ENTER (Corporate Banking Service)
+**Aug 2025 – Present · Riga / Remote**
+Building and maintaining interfaces for a fintech platform.
+Work within a modern Nuxt architecture with a shared design system, focusing on maintainable component structure and reliable, well-tested UI.
+
 ### Frontend Developer — Intrepid Fox  
 **Dec 2023 – Aug 2025 · Remote**  
 Built and maintained an AI-driven KYC data-collection system. Replaced the chat-based flow with structured intelligent forms to increase reliability and reduce friction.  
