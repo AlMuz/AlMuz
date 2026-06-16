@@ -6,7 +6,7 @@ Primarily work with Vue, Nuxt, TypeScript, and interface systems for fintech and
 ## Experience
 
 ### Frontend Developer — ENTER (Corporate Banking Service)
-**Aug 2025 – Present · Riga / Remote**
+**Sep 2025 – Present · Remote**
 Building and maintaining interfaces for a fintech platform.
 Work within a modern Nuxt architecture with a shared design system, focusing on maintainable component structure and reliable, well-tested UI.
 
