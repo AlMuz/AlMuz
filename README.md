@@ -17,7 +17,6 @@ Corporate banking platform · Sep 2025 – Present · Remote
 - Build and maintain interfaces for a corporate banking platform.
 - Work in a modern Nuxt architecture with a shared design system.
 - Focus on maintainable component structure and reliable, well-tested UI.
-- 
 
 ### Frontend Developer — Intrepid Fox
 
